@@ -14,7 +14,7 @@
 
 <div align="center">
 
-I'm a systems engineer who works at **[Kayzen](https://github.com/clove7)** —
+I'm a systems analyst who works at **[Kayzen](https://github.com/clove7)** —
 building low-level infrastructure in **Rust**.
 I care more about how things work underneath than what they look like on the surface.
 I think in layers, move slowly on purpose, and tend to see patterns before I see details.
